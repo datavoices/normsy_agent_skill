@@ -1,7 +1,7 @@
 {
   "name": "normsy-civic-agent",
   "displayName": "Normsy Civic Agent",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Draft and revise constructive replies to contentious civic and political messages using the bundled Normsy manual.",
   "author": {
     "name": "Normsy"
@@ -12,5 +12,7 @@
     "normsy"
   ],
   "license": "AGPL-3.0-or-later",
-  "repository": "https://github.com/datavoices/normsy_agent_skill"
+  "repository": "https://github.com/datavoices/normsy_agent_skill",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://github.com/datavoices/normsy_agent_skill/blob/main/plugins/normsy-civic-agent/PRIVACY.md"
 }

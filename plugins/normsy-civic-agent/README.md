@@ -16,6 +16,8 @@ Examples:
 
 The plugin contains a skill and Markdown reference documents. Books and conditional guidance are excluded. It has no MCP server, hooks, backend calls, credentials, external service requests, or storage of its own. Conversations are processed by the host application under that application's data handling policies.
 
+See [Privacy policy](PRIVACY.md) for the scope of data handling and the distinction between this plugin and its host application.
+
 ## License
 
 This package is licensed under the GNU Affero General Public License, version 3 or any later version (AGPL-3.0-or-later). See [LICENSE](LICENSE) for the full license text.

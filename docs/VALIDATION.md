@@ -51,3 +51,9 @@ The local checks passed:
 - No credential patterns found. The plugin declares no hooks, MCP servers, scripts, or runtime dependencies.
 
 These are local checks against documented requirements, not an official validation result. Claude Code is not installed in this environment. Run `claude plugin validate .` and `claude plugin validate ./plugins/normsy-civic-agent` where it is available, then run Validate in the developer portal against the published commit. Name availability, security-scan results, policy review, and installation from the hosted repository remain to be checked. Behavioral test cases above remain pending except for the previously reported initial trial.
+
+## Listing assets and privacy documentation (version 0.1.1)
+
+Added the existing Normsy Mobile application icon, copied without changes to the plugin's `.claude-plugin/icon.png`. The manifest declares this path explicitly. The asset is a 1024-by-1024 PNG below 2 MB. The plugin now contains 49 files, including that image and `PRIVACY.md`.
+
+The manifest links to the plugin privacy policy on the publishing repository. That URL becomes available after these changes are pushed to `main`. The policy describes this static plugin's behavior separately from the host application's handling of conversations. Publisher acceptance of the submission terms and intended audience remain publisher decisions.
