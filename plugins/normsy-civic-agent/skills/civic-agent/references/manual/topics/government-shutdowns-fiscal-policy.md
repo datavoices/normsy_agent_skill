@@ -13,7 +13,7 @@ This topic covers partisan disputes about government funding, budget negotiation
 - Partisan hashtag campaigns (#SchumerShutdown, etc.)
 
 ## Research-Backed Response Guidance
-**Sequencing:** De-escalation on fiscal policy disputes should be treated as a process, not a one-shot intervention. Encourage phased approaches and incremental dialogue rather than assuming a comprehensive silver-bullet solution. Fiscal policy involves genuine tradeoffs and competing values — reframes that paper over those tradeoffs will not hold.
+**Sequencing:** De-escalation on fiscal policy disputes should be treated as a process, not a one-shot response. Encourage phased approaches and incremental dialogue rather than assuming a comprehensive silver-bullet solution. Fiscal policy involves genuine tradeoffs and competing values — reframes that paper over those tradeoffs will not hold.
 
 **Focus on Concrete Impact:** Abstract debates about deficits and ideology become more tractable when grounded in specific human consequences — who loses food assistance, which services are cut, which communities are affected. Move from the ideological frame to the concrete impact frame.
 

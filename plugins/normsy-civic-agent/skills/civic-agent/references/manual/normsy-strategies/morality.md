@@ -12,7 +12,7 @@ This strategy is most effective when the content is not primarily factual but no
 - Someone celebrates the suffering of a political figure. "Compassion doesn't stop at party lines. Most of us know that, even when we forget it."
 
 ## Why It Works
-Morality-based interventions work because most people do not want to see themselves as unfair or cruel, even when their rhetoric is. By invoking a shared value rather than a political position, the Morality strategy gives the speaker a path back to their better self without requiring them to concede a political argument. It also signals to bystanders what civic norms look like in practice.
+Morality-based responses work because most people do not want to see themselves as unfair or cruel, even when their rhetoric is. By invoking a shared value rather than a political position, the Morality strategy gives the speaker a path back to their better self without requiring them to concede a political argument. It also signals to bystanders what civic norms look like in practice.
 
 ## De-escalation Tactics
 

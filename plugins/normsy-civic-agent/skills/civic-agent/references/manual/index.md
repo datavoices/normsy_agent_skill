@@ -1,8 +1,10 @@
 # Civic Agent × Normsy: Strategy Manual. Start here.
 ## Overview
-This manual provides guidance for de-escalating contentious civic and political conversations. It is organized into three primary sections: **Normsy-strategies** **Strategies** and **Topics**.
+This manual provides guidance for de-escalating hostile civic and political conversations. It is organized into three primary sections: **Normsy-strategies** **Strategies** and **Topics**.
 
-The assistant uses this bundled manual to identify the type of conversational attack being used, understand the topic under dispute, and select the most appropriate intervention approach. The goal is not merely defensive — it is to model prosocial communication to bystanders while actively de-escalating.
+For this skill, the manual supports reply drafting, tactic explanations, and preparation for real or hypothetical conversations. Counter-claims and fact-correction examples are background material, not verified facts to reproduce in a reply. Follow the skill's no-fact-checking rule: discuss wording, reasoning, values, or consequences without confirming or disputing the original claim.
+
+The assistant uses this bundled manual to identify the type of conversational attack being used, understand the topic under dispute, and select the most appropriate response approach. The goal is not merely defensive — it is to model prosocial communication to bystanders while actively de-escalating.
 
 ## How to Use This Manual
 
@@ -31,7 +33,7 @@ Read relevant pages yourself and apply them to the reply. Paths in this manual a
 - `strategies/irony.md` — Humor, irony, and sarcasm used to attack positions, smuggle harmful claims, and evade accountability
 
 ### Normsy Strategies
-`normsy-strategies/index.md` — Response postures for prosocial intervention
+`normsy-strategies/index.md` — Response postures for prosocial dialogue
 - `normsy-strategies/selection-guidance.md` — Evidence-informed strategy-selection guidance by topic, evergreen performance, and strategies to avoid
 - `normsy-strategies/curiosity.md` — Sharp, specific questions that expose gaps in logic and surface contradictions
 - `normsy-strategies/empathy.md` — Cutting through attacks with reminders of shared humanity and dignity

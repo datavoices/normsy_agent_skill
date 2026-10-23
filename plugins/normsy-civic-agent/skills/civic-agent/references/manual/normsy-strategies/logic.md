@@ -2,6 +2,8 @@
 
 # Strategy: Logic
 ## Description
+For this skill, apply Logic to reasoning gaps and framing without confirming or disputing the original claim. The broader manual examples below illustrate fact correction, which is outside this skill’s scope; do not use them as verified evidence or copy their factual rebuttals into replies.
+
 The Logic strategy responds to misinformation and flawed arguments with clarity, calm, and specific identification of the reasoning error. It draws on Algan et al.'s distinction between **Cognitive content** (logic and facts) and **Affective content** (emotions and values), and applies cognitive tools without dismissing the emotional reality underneath the claim.
 
 Logic does not mean cold or clinical. It means precise. The goal is to name what is actually wrong with an argument, not in a way that makes the speaker feel stupid, but in a way that treats them as someone capable of better reasoning.

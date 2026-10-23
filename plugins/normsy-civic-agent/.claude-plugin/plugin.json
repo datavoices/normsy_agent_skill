@@ -1,10 +1,12 @@
 {
   "name": "normsy-civic-agent",
   "displayName": "Normsy Civic Agent",
-  "version": "0.1.1",
-  "description": "Draft and revise constructive replies to contentious civic and political messages using the bundled Normsy manual.",
+  "version": "0.1.2",
+  "description": "Respond to toxic political content in a way that holds your ground and promotes healthy conversation, with strategies tested in research on 2,000+ people.",
   "author": {
-    "name": "Normsy"
+    "name": "Civic Health Project",
+    "email": "info@civichealthproject.org",
+    "url": "https://www.civichealthproject.org/"
   },
   "keywords": [
     "civic-dialogue",
@@ -14,5 +16,6 @@
   "license": "AGPL-3.0-or-later",
   "repository": "https://github.com/datavoices/normsy_agent_skill",
   "icon": "./.claude-plugin/icon.png",
-  "privacyPolicyUrl": "https://github.com/datavoices/normsy_agent_skill/blob/main/plugins/normsy-civic-agent/PRIVACY.md"
+  "privacyPolicyUrl": "https://github.com/datavoices/normsy_agent_skill/blob/main/plugins/normsy-civic-agent/PRIVACY.md",
+  "homepage": "https://www.civichealthproject.org/"
 }

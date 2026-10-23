@@ -1,13 +1,15 @@
 {
-  "name": "normsy-civic-agent",
+  "name": "normsy",
   "owner": {
-    "name": "Normsy"
+    "name": "Civic Health Project",
+    "email": "info@civichealthproject.org"
   },
   "plugins": [
     {
       "name": "normsy-civic-agent",
       "source": "./plugins/normsy-civic-agent",
-      "description": "Draft and revise constructive replies to contentious civic and political messages using the bundled Normsy manual."
+      "description": "Respond to toxic political content in a way that holds your ground and promotes healthy conversation, with strategies tested in research on 2,000+ people."
     }
-  ]
+  ],
+  "description": "Normsy tools for healthy civic and political conversation, published by Civic Health Project."
 }

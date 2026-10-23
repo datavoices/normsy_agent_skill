@@ -4,7 +4,7 @@
 ## Description
 The Empathy strategy cuts through attacks on individuals or groups by redirecting attention to shared humanity — the things most people actually care about regardless of political identity: family, safety, dignity, belonging. It does not validate harmful content, but it does take seriously the human being behind the screen who produced it.
 
-This strategy draws on research by Bilewicz et al., which identifies the "fragility" of the person on the other side as a key intervention point. Rather than targeting the abstract ideology, Empathy targets the person — specifically, their capacity to recognize themselves in the person they are attacking.
+This strategy draws on research by Bilewicz et al., which identifies the "fragility" of the person on the other side as a key point for a constructive response. Rather than targeting the abstract ideology, Empathy targets the person — specifically, their capacity to recognize themselves in the person they are attacking.
 
 **Examples in civic contexts:**
 - Someone mocks a politician's physical appearance. "Whatever you think of his policies, he's somebody's father. That still matters."

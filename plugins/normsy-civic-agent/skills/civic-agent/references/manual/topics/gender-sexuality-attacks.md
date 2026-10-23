@@ -14,7 +14,7 @@ This topic covers attacks using slurs, derogatory terms, and dehumanizing rhetor
 - Drag performances and "grooming" accusations
 
 ## Research-Backed Response Guidance
-**Empathy Induction:** Bilewicz et al. identify the "fragility" of the targeted person as the primary intervention point. Rather than defending abstract group rights, focus on the specific human being on the other side of the screen — their family, their daily experience, their dignity. This is more effective than ideological counterargument.
+**Empathy Induction:** Bilewicz et al. identify the "fragility" of the targeted person as the primary point for a constructive response. Rather than defending abstract group rights, focus on the specific human being on the other side of the screen — their family, their daily experience, their dignity. This is more effective than ideological counterargument.
 
 **Separate Sincere Disagreement from Dehumanization:** Some rhetoric in this space reflects sincere religious or values-based concerns about gender and sexuality. Some is dehumanizing hate designed to inflict harm. The appropriate response differs. Probe which is present before engaging.
 

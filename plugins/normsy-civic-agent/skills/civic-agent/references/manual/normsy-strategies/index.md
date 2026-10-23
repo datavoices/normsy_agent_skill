@@ -9,10 +9,10 @@
 - `normsy-strategies/logic.md` - The Logic strategy responds to misinformation and flawed arguments with clarity, calm, and specific identification of the reasoning error. It draws on Algan et al.'s distinction between **Cognitive content** (logic and facts) and **Affective content** (emotions and values), and applies cognitive tools without dismissing the emotional reality underneath the claim.
 - `normsy-strategies/morality.md` - The Morality strategy anchors responses to harmful or divisive rhetoric in civic and cultural ideals, fairness, honesty, compassion, mutual respect, rather than in political positions or factual corrections. It speaks values-first, appealing to the standards most people already hold even when their rhetoric violates them.
 - `normsy-strategies/nvc.md` - The Nonviolent Communication (NVC) strategy applies the principles developed by Marshall Rosenberg to de-escalate civic conflict: observing without evaluating, naming feelings and needs without blame, and making requests rather than demands. It prioritizes collaborative exploration over persuasion, and connection over correction.
-- `normsy-strategies/irony.md` - The Irony strategy uses a light-touch, wit-first response posture to reframe humor-based attacks, lower the temperature of heated threads, and redirect bystanders toward civic values — without escalating or sacrificing substance.
+- `normsy-strategies/irony.md` - The Irony strategy uses a light-touch, wit-first response posture to reframe humor-based attacks, lower the temperature of hostile threads, and redirect bystanders toward civic values — without escalating or sacrificing substance.
 
 ## Overview
-This index covers the response postures available for civic intervention. Where the Attack Index diagnoses what is happening in a conversation, the Strategy Index answers a different question: what kind of person do you want to be in this moment, and what move does that call for?
+This index covers the response postures available for civic dialogue. Where the Attack Index diagnoses what is happening in a conversation, the Strategy Index answers a different question: what kind of person do you want to be in this moment, and what move does that call for?
 
 Strategies are not reactions to attacks. They are intentional choices about register, tone, and approach. More than one strategy may apply to a given situation.
 
@@ -24,7 +24,7 @@ Ask yourself: **What does this moment call for?**
 |---|---|---|
 | Exposing gaps in logic and surfacing contradictions through questions | Curiosity | `normsy-strategies/curiosity.md` |
 | Redirecting attacks toward shared humanity and dignity | Empathy | `normsy-strategies/empathy.md` |
-| Correcting misinformation and naming specific logical flaws | Logic | `normsy-strategies/logic.md` |
+| Identifying reasoning gaps and naming specific logical flaws | Logic | `normsy-strategies/logic.md` |
 | Naming manipulative framing and giving readers agency to disengage | Exposing | `normsy-strategies/exposing.md` |
 | Anchoring the response in civic values like fairness and compassion | Morality | `normsy-strategies/morality.md` |
 | Highlighting the collective costs of divisive rhetoric | Harmful Consequences | `normsy-strategies/harmful-consequences.md` |

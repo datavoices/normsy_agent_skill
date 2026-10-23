@@ -1,8 +1,8 @@
 # Normsy Strategy Selection Guidance
 
-Use this file when selecting which Normsy response strategy should guide a Civic Bridge reply.
+Use this file when selecting which Normsy response strategy should guide a Normsy reply.
 
-This guidance summarizes strategy-selection recommendations from Grafana performance data from the prior 6 months and Lab 2.0 study results. Treat it as directional, not absolute. Rankings can be noisy, and viral outliers can affect Grafana results. When Lab 2.0 signals conflict with Grafana, prefer Grafana until more survey data is available.
+This guidance summarizes strategy-selection recommendations from Normsy deployment data from the prior 6 months and Normsy Labs study results. Treat it as directional, not absolute. Rankings can be noisy, and viral outliers can affect deployment metrics. When Normsy Labs findings conflict with deployment data, prefer the deployment data until more survey data is available.
 
 ## Selection Rule
 
@@ -18,7 +18,7 @@ Use the selected strategy, the reason it fits, any useful alternate strategy, an
 
 ## Evergreen Strategies
 
-These strategies are generally safe to use across contexts because they perform well in Grafana and/or Lab 2.0.
+These strategies are generally safe to use across contexts because they perform well in deployment data and/or Normsy Labs studies.
 
 ### Harmful Consequences
 
@@ -34,7 +34,7 @@ Strategy page: `normsy-strategies/exposing.md`
 
 ### Logic
 
-Use broadly, but do not turn the reply into a fact-check. In Civic Bridge, Logic should name reasoning problems, overgeneralization, false choices, or weak framing without adjudicating the factual truth of the original claim.
+Use broadly, but do not turn the reply into a fact-check. In Normsy, Logic should name reasoning problems, overgeneralization, false choices, or weak framing without adjudicating the factual truth of the original claim.
 
 Strategy page: `normsy-strategies/logic.md`
 
@@ -44,7 +44,7 @@ Use broadly. Strong when a reply can anchor in shared civic values such as fairn
 
 Strategy page: `normsy-strategies/morality.md`
 
-Note: Morality performs very well in Grafana. Lab evidence is weaker, but current recommendation is to treat it as close to evergreen.
+Note: Morality performs very well in deployment data. Lab evidence is weaker, but current recommendation is to treat it as close to evergreen.
 
 ## Conditional Strategies
 

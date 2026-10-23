@@ -13,7 +13,7 @@ The appeal to crowd (also called argumentum ad populum) uses vague or fabricated
 
 ## Why People Use It
 
-Appeals to crowd are persuasive because humans are social animals — we use social proof to calibrate beliefs. In contentious conversations, invoking "everybody" or "most people" also serves to isolate the opponent, making their view seem fringe or unreasonable without having to argue against it directly.
+Appeals to crowd are persuasive because humans are social animals — we use social proof to calibrate beliefs. In hostile conversations, invoking "everybody" or "most people" also serves to isolate the opponent, making their view seem fringe or unreasonable without having to argue against it directly.
 
 ## De-escalation Tactics
 

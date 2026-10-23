@@ -1,6 +1,6 @@
 Topic Index — Civic and Political Issues
 ## Overview
-This index covers the civic and political topics that most commonly generate contentious and harmful online discourse. Each topic page provides background, common flashpoints, research-backed bridging guidance, and the attack types most frequently used in that context.
+This index covers the civic and political topics that most commonly generate hostile and harmful online discourse. Each topic page provides background, common flashpoints, research-backed bridging guidance, and the attack types most frequently used in that context.
 
 Topics in this index range from legitimate policy disagreements to coordinated hate and violent rhetoric. The response architecture is designed to handle the full spectrum.
 
@@ -29,7 +29,7 @@ Identify the core subject matter of the conversation:
 | Racial & Religious Hate | racism, religious hatred, slurs, demonization, calls to ban participation, white nationalism, antisemitism, islamophobia, replacement theory | `topics/racial-religious-hate.md` |
 
 ## Topic-Specific Note
-Most contentious civic conversations involve **both** a topic and a conversational attack type. The most effective intervention addresses both dimensions:
+Most hostile civic conversations involve **both** a topic and a conversational attack type. The most effective response addresses both dimensions:
 1. Use the **Strategy Index** (`strategies/index.md`) to identify the rhetorical pattern being used.
 2. Use the **normsy strategy Index** (`normsy-strategies/index.md`) to select the right response posture for the moment.
 3. Use the **topic page** to understand the specific flashpoints, emotional drivers, and research-backed guidance for that subject.

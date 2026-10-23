@@ -10,7 +10,16 @@ A standalone Civic Agent skill distributed as a Claude plugin and repository mar
 
 ## Install from the repository marketplace
 
-Add `datavoices/normsy_agent_skill` in Claude's plugin settings, then install Normsy Civic Agent. Disable any separately uploaded copy of the same skill while testing.
+In Claude Code, run:
+
+```sh
+claude plugin marketplace add datavoices/normsy_agent_skill
+claude plugin install normsy-civic-agent@normsy
+```
+
+In Claude's plugin settings, add `datavoices/normsy_agent_skill` as a marketplace, then install Normsy Civic Agent. Disable any separately uploaded copy of the same skill while testing.
+
+Published by [Civic Health Project](https://www.civichealthproject.org/). Contact: info@civichealthproject.org. See the [plugin README](plugins/normsy-civic-agent/README.md) for supported uses, research, and the distinction between response guidance and fact-checking.
 
 ## Submit to the public directory
 

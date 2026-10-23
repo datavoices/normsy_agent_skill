@@ -1,7 +1,7 @@
 # Strategies Index
 
 ## Overview
-Contentious civic conversations often follow recognizable patterns. This index helps identify which attack type is present so the appropriate response can be applied using strategies from Normsy Strategies. Multiple attack types may be present simultaneously.
+Hostile civic conversations often follow recognizable patterns. This index helps identify which attack type is present so the appropriate response can be applied using strategies from Normsy Strategies. Multiple attack types may be present simultaneously.
 
 ## How to Identify an Attack
 Ask yourself: **What is the speaker doing?**

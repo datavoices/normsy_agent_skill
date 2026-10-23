@@ -16,7 +16,7 @@ This topic covers broad, sweeping demonization of entire political groups — th
 
 **Norm Induction:** Use Descriptive Norm Induction to highlight that most people — including most members of the group being attacked — do not hold the extreme positions being attributed to them. This is more effective than abstract appeals to civility.
 
-**Separate People from Positions:** The most durable intervention is to create distance between the label and the individual. "Republican voters" and "MAGA extremists" are not synonyms. "Democrats" and "socialists" are not synonyms. Making that distinction explicit, without dismissing the underlying concern, is the primary bridging move.
+**Separate People from Positions:** The most durable response is to create distance between the label and the individual. "Republican voters" and "MAGA extremists" are not synonyms. "Democrats" and "socialists" are not synonyms. Making that distinction explicit, without dismissing the underlying concern, is the primary bridging move.
 
 ## Common Flashpoints
 

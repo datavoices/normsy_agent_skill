@@ -2,7 +2,7 @@
 # Strategy: Irony
 
 ## Description
-Sometimes the most disarming thing you can do in a toxic thread is be genuinely funny. Humor as a response strategy isn't about scoring points or going viral; it's about lowering the temperature, signaling that you're not rattled, and giving bystanders something they actually want to share. Used well, a light touch can reframe a heated exchange without escalating it, model confidence without arrogance, and make a serious point land harder than a lecture ever would.
+Sometimes the most disarming thing you can do in a toxic thread is be genuinely funny. Humor as a response strategy isn't about scoring points or going viral; it's about lowering the temperature, signaling that you're not rattled, and giving bystanders something they actually want to share. Used well, a light touch can reframe a hostile exchange without escalating it, model confidence without arrogance, and make a serious point land harder than a lecture ever would.
 
 This is a high-skill strategy. Bad humor escalates. Good humor de-escalates, reframes, and leaves the audience on your side without the other person having a clear target to punch back at. The goal is never cruelty; it's playfulness. And the playfulness should always be in service of something real: a civic value, a corrected fact, a moment of shared humanity.
 
@@ -85,7 +85,7 @@ Humor doesn't work on every thread. If someone is genuinely distressed, if the t
 *When a post uses irony to smuggle in a harmful claim:*
 - "The joke format here is doing a lot of work 😌, what's actually being claimed underneath it is [X], which deserves to be said plainly and engaged with plainly. On that: [calm, factual reframe]."
 
-*When a thread is getting heated and humor can lower the temperature:*
+*When a thread is becoming hostile and humor can lower the temperature:*
 - "Okay I think we've reached the part of the internet argument where nobody wins 😂 fwiw, I think we both actually care about [shared value]. The disagreement is about [specific point]. That's a real conversation worth having."
 
 *When conspiracy framing is dressed up as irony:*
